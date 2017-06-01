@@ -1,0 +1,14 @@
+td {
+    border: solid 1px black;
+}
+h1 {
+    color: blue;
+}
+h2 {
+    text-align: center;
+    color: red;
+}
+h3 {
+    text-align: right;
+    color: green;
+}
